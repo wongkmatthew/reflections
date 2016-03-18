@@ -1,0 +1,4 @@
+When you initialize the respository for GIT it creates the structure and behind the scenes stuff to prepare to use GIT hub.  That is just a guess lol.
+
+Staging area is only a temporary place for files to be commited.  Its purpose is to acts as the intermediate layer between GIT and your working dir.
+
