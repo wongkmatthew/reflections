@@ -1,0 +1,18 @@
+Viewing different versions can really help you locate things in a pinch.  So much time could be saved after using diff woot!
+
+If you have access to your entire history of files you can see easy progression of things and plan for the future accordingly.  
+
+Pros:
+	Can log logically which makes it easier to debug and roll back certain things.
+Cons:
+	Can forget to save and then thats just all bad.
+
+Saving multiple files at once is a time saver.  This also allows them to be evaluated at the same time with diff/FC which was shown in the video.
+
+Use the git log fuction to see what git commits were actually made.  Once you gather what commits you want to compare and contrast boom you can use the git ID's and use git diff.
+
+Having "backup" code can ensure you that you can do whatever you want in your next phase of coding and if you mess up big time you can just rever lol.  Also its a good way to compare exactly what could have broken your code as well.
+
+Would be cool to commit my own kind of program and use GIT capabilities.  We will see what lesson two has in store!
+
+
