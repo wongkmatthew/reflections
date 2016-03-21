@@ -2,3 +2,12 @@ When you initialize the respository for GIT it creates the structure and behind 
 
 Staging area is only a temporary place for files to be commited.  Its purpose is to acts as the intermediate layer between GIT and your working dir.
 
+The staging area is a good management system that clearly shows you what is to be commited.  Using git status is a clear indicator of what will be moved.
+
+Branches can allow you to experiement and create new things while keeping your core functionalites intact.  If you need your project to "branch" off in a different direction you dont have to worry about it changing your original concept/core.
+
+You can easily see what commits are made to what branches when you diagram them as such.  This can make you more organized.
+
+Merging the branches together helped enable new functionalities that were worked on by different people.  Using the diagram really helps organize these commits and merges.
+
+It is way faster to do automatic merges but there is not conflict resolutoin.  Therefore the process that was shown takes place.
