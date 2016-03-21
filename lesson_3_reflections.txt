@@ -1,1 +1,3 @@
 Would want to use a remote repository so you can access you files from anywhere.  Also you can collaborate with others who are not local as well.  Pretty neat!
+
+This one I dont really know the answer too lol.  I guess you dont want to continually hit your local system and just decide when you want to update your local files.  Also if youre sharing a hub with others you might not want their changes.
