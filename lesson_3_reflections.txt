@@ -1,3 +1,11 @@
 Would want to use a remote repository so you can access you files from anywhere.  Also you can collaborate with others who are not local as well.  Pretty neat!
 
 This one I dont really know the answer too lol.  I guess you dont want to continually hit your local system and just decide when you want to update your local files.  Also if youre sharing a hub with others you might not want their changes.
+
+Fork is a version of someones repository that you can work on your own and then make modifications without changing the original repository.  Forks can also be shared with others to work collaboratively.  Clones is more to work on locally and separately from others.
+
+The benefit here is to work remotely without being connected.  Basically allows you to work offline.
+
+Collaborating on GitHub makes it so you can work offline independently and then merge in a systematic and easy way.  The one thing that makes it difficult is adding in the conflict resolution manual part.  It can become annoying but it is def necessary.
+
+Working in a branch is better when working with multiple people.  When they have a fork/clone in their own local systems they dont want the master file changing on them without others knowing.  That being said it does take more time/steps to consolidate changes.
